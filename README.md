@@ -1,4 +1,4 @@
-# Better Fandom Extension
+# Return to Twitter Extension
 
 This is a simple chrome extension I made that removes X garbage on Twitter, it only uses 2 lines of CSS and 2 lines of JS to work.
 
