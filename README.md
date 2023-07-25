@@ -1,8 +1,9 @@
 # Return to Twitter Extension
 
-This is a simple chrome extension I made that removes X garbage on Twitter, it only uses 2 lines of CSS and 2 lines of JS to work.
+This is a simple Chrome extension I made that removes X garbage on Twitter, it only uses 2 lines of CSS and 2 lines of JS to work.
+Keep in mind I kinda just made this for fun and it doesn't have any self-update functionality to it so if it ever breaks you'll have to reinstall it through a new release.
 
-As of right now the extension is not available on the Google Chrome Store, so if you'd like to install it you'll need to do it manually, so here's what you're going to need to do in order to install it.
+As of right now, the extension is not available on the Google Chrome Store, so if you'd like to install it you'll need to do it manually, so here's what you're going to need to do in order to install it.
 
 1.  Download the latest release of the extension on the releases tab of this repository
 2.  Unzip the folder called `extension` and place it somewhere where it won't get tampered with or deleted
