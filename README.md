@@ -5,7 +5,7 @@ Keep in mind I kinda just made this for fun and it doesn't have any self-update 
 
 As of right now, the extension is not available on the Google Chrome Store, so if you'd like to install it you'll need to do it manually, so here's what you're going to need to do in order to install it.
 
-1.  Download the latest release of the extension on the releases tab of this repository
+1.  Download the latest release of the extension on the releases tab of this repository labeled "Source Code (zip)"
 2.  Unzip the folder called `extension` and place it somewhere where it won't get tampered with or deleted
 3.  Go to the extensions page on Chrome `chrome://extensions/`
 4.  Enable Developer Mode by ticking the slider on the top right corner of the screen
